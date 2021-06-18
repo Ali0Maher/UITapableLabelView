@@ -3,12 +3,12 @@ Pod::Spec.new do |s|
 # 1
 s.platform = :ios
 s.ios.deployment_target = '11.0'
-s.name = "RWPickFlavor"
+s.name = "UITapableLabelView"
 s.summary = "UITapableLabelView lets an ios Developer clicks on uilabel words with ease"
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "0.0.1"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
