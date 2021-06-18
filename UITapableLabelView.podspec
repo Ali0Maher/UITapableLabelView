@@ -8,7 +8,7 @@ s.summary = "UITapableLabelView lets an ios Developer clicks on uilabel words wi
 s.requires_arc = true
 
 # 2
-s.version = "0.0.1"
+s.version = "0.1.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE.md" }
@@ -30,7 +30,7 @@ s.framework = "UIKit"
 s.source_files = "UITapableLabelView/**/*.{swift}"
 
 # 9
-s.resources = "UITapableLabelView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#s.resources = "UITapableLabelView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
