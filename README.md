@@ -18,7 +18,7 @@ A Pod That helps IOS Developers to tap on words in UILabel.
 $ gem install cocoapods
 ```
 
-To integrate SideMenu into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate UITapableLabelView into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 platform :ios, '11.0'
