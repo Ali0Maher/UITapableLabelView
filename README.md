@@ -2,10 +2,6 @@
 
 A Pod That helps IOS Developers to tap on words in UILabel.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 
 ## Requirements
 - [x] Xcode 11.
