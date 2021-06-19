@@ -34,7 +34,7 @@
 		41F85FB7267CC8BA002B52A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41F85FC2267CC8EB002B52A4 /* UIViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 		41F85FC3267CC8EB002B52A4 /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
-		41F85FC4267CC8EB002B52A4 /* UITappableLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UITappableLabel.swift; path = ../../../../Shared/last/Documents/Learn/Libraries/testing/testing/Library/UITappableLabel.swift; sourceTree = "<group>"; };
+		41F85FC4267CC8EB002B52A4 /* UITappableLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITappableLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,8 +100,7 @@
 				41F85FC2267CC8EB002B52A4 /* UIViewExtension.swift */,
 				41F85FC3267CC8EB002B52A4 /* StringExtension.swift */,
 			);
-			name = Extensions;
-			path = ../../../../Shared/last/Documents/Learn/Libraries/testing/testing/Library/Extensions;
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
