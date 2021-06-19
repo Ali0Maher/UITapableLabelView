@@ -27,7 +27,7 @@ s.source = { :git => "https://github.com/Ali0Maher/UITapableLabelView.git",
 s.framework = "UIKit"
 
 # 8
-s.source_files  = "Classes", "Classes/**/*.swift"
+s.source_files  = "Classes", "Classes/**/*.{swift}"
 s.exclude_files = "Classes/Exclude"
 # 9
 #s.resources = "UITapableLabelView/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
